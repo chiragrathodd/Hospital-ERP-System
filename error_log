@@ -1,0 +1,100 @@
+[20-Dec-2023 05:45:26 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:26 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:26 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:45:44 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:44 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:44 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:45:56 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:56 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:45:56 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:45:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:46:18 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:46:18 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:46:18 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:46:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:46:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:46:34 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:46:34 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:46:34 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:46:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:46:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:57:34 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:57:34 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:57:34 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:57:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:57:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:58:05 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:58:05 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:58:05 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:58:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:58:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 05:58:08 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:58:08 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 05:58:08 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:58:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 05:58:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 06:09:37 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 06:09:37 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 06:09:37 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 06:09:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 06:09:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 06:09:50 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 06:09:50 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 06:09:50 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 06:09:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 06:09:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:23:16 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:16 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:16 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:23:23 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:23 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:23 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:23:28 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:28 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:28 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:23:37 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:37 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:37 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:23:44 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:44 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:23:44 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:23:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:24:34 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:24:34 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:24:34 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:24:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:24:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:24:40 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:24:40 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:24:40 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:24:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:24:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:25:26 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:25:26 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:25:26 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:25:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:25:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:26:20 UTC] PHP Warning:  include(../hospital/databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:26:20 UTC] PHP Warning:  include(): Failed opening '../hospital/databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:26:20 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:26:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:26:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145
+[20-Dec-2023 07:29:06 UTC] PHP Warning:  include(../databases/config.php): failed to open stream: No such file or directory in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:29:06 UTC] PHP Warning:  include(): Failed opening '../databases/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 140
+[20-Dec-2023 07:29:06 UTC] PHP Notice:  Undefined variable: q in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:29:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 144
+[20-Dec-2023 07:29:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/p8mzroa65i3y/public_html/hospital.rpatelstationery.in/index.php on line 145

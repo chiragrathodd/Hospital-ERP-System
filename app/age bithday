@@ -1,0 +1,22 @@
+<div class="col-md-4 form-group">
+    <label>Toggle Input</label>
+    <div id="inputContainer">
+        <input type="text" id="myInput" class="form-control" placeholder="Type something...">
+    </div>
+    <button type="button" id="toggleBtn" class="btn btn-info" onclick="toggleInput()">Age</button>
+</div>
+
+<script>
+function toggleInput() {
+    var existingInput = document.getElementById('myInput');
+    var toggleBtn = document.getElementById('toggleBtn');
+
+    if (existingInput.type === 'text') {
+        existingInput.type = 'date';
+        toggleBtn.innerText = 'BOD';
+    } else if (existingInput.type === 'date') {
+        existingInput.type = 'text';
+        toggleBtn.innerText = 'Age';
+    }
+}
+</script>

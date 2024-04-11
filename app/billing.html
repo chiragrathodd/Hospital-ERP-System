@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Popover Example</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <h6 class="border-bottom mb-3" style="color: #e600ac;">
+    <button type="button" class="btn btn-secondary" data-toggle="popover" title="Popover Title" data-content="This is a popover content.">Click Me</button>
+    Patient Details
+  </h6>
+
+  <!-- Bootstrap JS and jQuery (place these scripts before the closing </body> tag) -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
+  <!-- JavaScript to initialize popovers -->
+  <script>
+    $(document).ready(function(){
+      $('[data-toggle="popover"]').popover();
+    });
+  </script>
+</body>
+</html>

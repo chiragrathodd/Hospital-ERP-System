@@ -1,0 +1,30 @@
+
+#example_wrapper .dataTables_filter input {
+   
+    
+    border: 2px solid #e600ac;
+    border-radius: 5px;
+    transition: border-color 0.3s ease-in-out; /* Animation for border color */
+}
+
+#example_wrapper .dataTables_filter input:focus {
+    border-color: #ff0000; /* Change border color to red on focus */
+}
+
+#example_wrapper .dataTables_paginate {
+    margin-top: 10px;
+    transition: margin-top 0.3s ease-in-out; /* Animation for margin-top */
+}
+
+#example_wrapper .dataTables_paginate .paginate_button {
+    padding: 8px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Animation for background and text color */
+}
+
+#example_wrapper .dataTables_paginate .paginate_button:hover {
+    background-color: #e600ac;
+    color: #fff;
+}
